@@ -25,5 +25,9 @@ AMS
   
   
 ◆条件  
-言語：Java8  
-使用不可：Date型(→LocalDate、LocalTime、LocalDateTimeを使う｝）  
+言語：~~Java8~~ Ruby(redmineのプラグインを想定)  
+(・ユーザ管理がある。  
+ ・カレンダーがある。  
+ ・一から作るより楽かも？)  
+~~使用不可：Date型(→LocalDate、LocalTime、LocalDateTimeを使う｝）~~  
+
